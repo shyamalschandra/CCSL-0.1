@@ -1,6 +1,8 @@
 # CCSL-0.1a
 Chandra Credit Software License (CCSL-0.1a)
 
+(C) Copyright 2018 Shyamal S. Chandra
+
 ## Author: Shyamal Suhana Chandra, Pittsburg, KS 66762 (shyamal@shyamalchandra.com)
 
 #CCSL-Chandra Credit Software License (MicroPayments in Bitcoins)
