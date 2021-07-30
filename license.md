@@ -10,7 +10,7 @@ Chandra Credit Software License (CCSL-0.1a)
 ## TO BE CONTINUED... (IN PROGRESS)
 ### Date of Completion: October 31, 2018 (Trick or Treat!)
 
-## Author: Shyamal S. Chandra (Under the CCSL Resursive License)
+## Author: Shyamal S. Chandra (Under the CCSL Recursive License)
 ## Date: October 23, 2018 @ 11:10 AM (@ my home)
 
 ### Give credit where credit is due in terms of bitcoins
